@@ -1,9 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import pizzas from './components/pizzas.vue'
 </script>
 
 <template>
-  <h1 class="text-center">Ciao</h1>
+  <pizzas></pizzas>
 </template>
 
 <style scoped>
